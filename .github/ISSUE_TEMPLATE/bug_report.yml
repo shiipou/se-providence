@@ -28,6 +28,7 @@ body:
         - Linux
         - Mac OS
         - Android
+        - iOS
   - type: dropdown
     id: app_type
     attributes:

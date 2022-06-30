@@ -1,7 +1,7 @@
 name: Bug Report
 description: Send a bug report
 title: "[Bug]: "
-labels: ["bug", "triage"]
+labels: ["type | bug", "tag | triage"]
 assignees:
   - shiipou
 body:
@@ -29,7 +29,7 @@ body:
         - Mac OS
         - Android
   - type: dropdown
-    id: Application type
+    id: app_type
     attributes:
       label: What type of app did you use when the problem occure ?
       multiple: true
